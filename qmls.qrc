@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cell.qml</file>
+        <file>world.qml</file>
+    </qresource>
+</RCC>
